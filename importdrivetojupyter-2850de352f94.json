@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "importdrivetojupyter",
+  "private_key_id": "2850de352f9450c7d38c547d08d6dd166ab393dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDU9lVs4raC0T/9\nsZPwcaRoNZmURwykyV7+Yhb6kIC/W6KPmLofbdLbBwuyJ/B/YMFL1ETwKxo3kbCV\ne5++XdqBqAzNwHCgqXn36FuWOQtl3B2jsHNem4J36cP5diIFEZNX7fusvVNX+OYa\n+bjM4fsV8vZMUwIf+7hMXnU+EdrTvJWHzXi5V//9ccljWr2YN6Bd+OGg3P7Wbtm8\nWkTdCtlhE6hjmWqhXihh+MHQISkDIItXZNhGTJ13Z0+gTr+ZvfEmtPJscOjEFV8L\nX/WDfBIbkbLd+YmD4tmH7PYW7+Nmg9Ag1whuK9R61wfgELiDuSBwO3C3zKRVOkb1\nbuE6+gEzAgMBAAECggEAAb5v/fpFSwDyUzOBu0r9m6ovXcV51wecctzUGgKA62WR\nXoz+SS+ZtcLIV7x3/bMJzNh/eq//q6DSdLGUd0ycHh+wKyco750zqydd80xNnuyU\nhDiiWTimHYaZMjvDajiLSlcKjo7mVdFrS6FBNXxMQBEYmeYRcw2ZTsF0mFOGb+Fs\nTJawUUwlXl1gFLNWBCVX8V4dEeqqZW7FmXdseGbclkStpR5HSakanAt34QDW7YMZ\nGc5UtDnvZYtDBMI4GN/o+xikRJOWqFakJvJFOEN4HEKzfeFlLb7x4sOFsstfaOcZ\nb1zAtqF2ZOxqLfoZM3GehazwXayJN7oO88n0+XVVsQKBgQDxCQhbNAJt7hiW3PSJ\nMX6QHerw918HGA0g50vQLL5+aeiWJmtKsDjG+KvBYxZIQoJl5qpnINgOErFIEbkL\nLDedfrXF9x9iMmtHBWrpBx2qplShC7u3nshEZwAHJx0xLPZ8q4SfMPQXZz4tJtJZ\n5VQ3QnbUDoQod5L83Zpjm6JyvwKBgQDiLx0XKswwgSj3BT8QtogMGEan0qRMSb//\nUTqwjuhYhLdbKS6RLvi63GJYSlq7YJDQvF5LCXu8e0s6HHbEcVZgNvbkAaFk5QAK\ni6OO7ykeIEKYECYZihflaB/pspJcOuY1WEsPiSOIa55e1HXHJSiBNQV3er25HetW\nkYNZ90iyjQKBgQDgSF1kMDMKg4CR8KwCdPGlvJD/A8+C1FhzA4ZCAUCIdJgeD0XK\ny8spKf74BfGX73tSwp5RM/iWr8ISo5sh0FU30c3mlZq4Tt4PyfS/PQXX4sngyQA1\nTiRfsdAO19CMD6CURS00y+J1XHY4oWUejQweF1Rm4dMLrKgzbyjYAtvYFQKBgBko\n2HmNPy1eEKp5oOxBAZ0mziU43yHFSmAiLv8YxmuiR6sSR6XKrcxLW30quDEDqtgt\nO+fo5CSxKksKg4OSf+Mv+gKe088fUgPaSJVLsS0ytXWoxjQtEj9od7RNMs6jlpv0\neFUAEj3IitNNmtROI9VLipIhyxzeYSE+Cnhlc2a5AoGBAIr+sttGTZrCahEJmgxL\nJa+yTRXeWPNVzGt39i0UyUyGZV0nnY7+kK+8nuB+Jf8iQiPZh0eNCMJLEzZ5hwvy\nCOOhIx9XP/0EN3Bak+p2WEozbXs795dgdfQAgD/tfv0eGRCcPGlRJu5W/HlOkEIW\nGGzuRYsN+Muk5F4sR0eLghIH\n-----END PRIVATE KEY-----\n",
+  "client_email": "proyecto-swa@importdrivetojupyter.iam.gserviceaccount.com",
+  "client_id": "108640178276375064715",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/proyecto-swa%40importdrivetojupyter.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

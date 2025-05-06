@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "optimal-torch-439314-q9",
+  "private_key_id": "2c512ed2a12509c19aff6f37ee1e2a41150f985c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHi84mLV5naYuX\nwhBA9q8ClCS+IkObg3MAcoRtuRW83W5J3gXaKTg+/NYEYMBKMvABYYxdbx9ZhKHZ\njj4hbQeRpdf/Iw6ZfpUarAuc2qWTC1LVr0nwFpVyrSpTJVcm5JQDmO0GG+7LMfzo\nBMPGFdgLARwgX0bzVZZ3lbJGVVCD52PuQRgS+UwNnPefzZ1rVDn9Mxplxj0nzUyb\nfi/Qbs+vSB5f26a4s79NJICiqBxoscrQ7DwHFnFqR64+4rqg/padYv2DFYnaNoAI\nKh6dGwQ80MBlHvXY4JoeHq8/E8r4hLQh4e0juxc9Nmdik4pFEVJvNhVCd/XvntMK\nMxSAkZcLAgMBAAECggEABQ6xCdyqgNp29ECx4sOdyeXxTHRX3FAnkQJWAuXm/CNs\nkSi0Y0QaLdaAohnFpdvGo3JSeWfAlqc65uWpA3Xc9D8My2WbEB7aLpPfs3kDK0fl\nMI9Bw3j/Dqn+4Z6Xp9+xNKoij74TfkjlDQhZ4eJZ2GWNzfA8PxyTNLKxkwDEiqM+\nNoq8T9gwqOv/ap5sBbcCtGPU01Kdg/T8joMe0jqahB71VRDJEpRyHNwYk6tVdtp2\n4OT/5Q7zOU+432JPpUbRu4z7CXtsXwPSK2Ue7dQwajtUW7pKuuTrBn4GRgln7s4X\nQqdkPoEAnh5OsFG9so2pxC1WquNlyUR9ajGHuOG/SQKBgQDvIZsa9ixwYK8+eXCs\nlNbg2/3r9J8p6qVuphnJAlMb0YUMkq+Tat/N8VyV+zU1w1quPaKIneskjA3oR4Fe\n+AAs+GFddB+A2rLZ1fiNj5Agi1nTX17N51Ak+jye2jjoQ/gLs/J/HolZjcev6dN6\nujCLkYTW1X80tfmETg2rff/bZwKBgQDVn1gGRUHqJVospdk4VI7aiDvt/pIP6gFp\nNbYwp1uMm2pg3QdfYo4Ek7IeKu4t+fciOP1xIOis2NbzkheupHPaj3kih7ktxCWa\n6Wb/adg42+NWlq5ceKGT5teepBhiv/Ny1Wf4cJSreuNDoMGZcCi0FmTSgP9uqpN6\nZp2j0mkEvQKBgQCznaBtbf8PIfA/kuQJHXsRRuzBcOqkh3VfWTABBdf7CzNOsFdk\n+V/FxsdueFQNYAEa43zT9RoMR46irCMGfG1VWfN4SKLpHFw+tzOM0QrHBySfWgFR\n068lNziVcQBRpcwIrk81IHC2bYJSJeYNRxDzpIgM/iwgIZebwy0NZQTrfQKBgACn\nuXRjd/1I2grzA0SJ9dozusNTGY2U8SYqdQGXMc+vllbvtpsTSU44Sb6P8SUQ9DIV\nrKlRKYWGMLqUgyAU/wn3kK6LbgT26gqclqVH5NLf0cWtNqGv+QbkGVsyM6Tx48RB\nZU08wyf3e4T0lENtNaK/wtVmceIcAdHJSMh817edAoGBALibAA+gMSOcI3DSqNys\nXL521FjzThdb7EekJ6h1KETdBt0X1jLDGJbaCe5qmRuUbLuAldKs43IaHt6kwvOU\nxoGU63iN+SreqYGCtxHmH/0taMwc9Cy2uAKJKoVZzVRdoZjTDkM8YC8X6Jd2yevw\n+j2q8dacyyKf/1vlTGkLG1DG\n-----END PRIVATE KEY-----\n",
+  "client_email": "control-tower@optimal-torch-439314-q9.iam.gserviceaccount.com",
+  "client_id": "116863950367948768591",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/control-tower%40optimal-torch-439314-q9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
